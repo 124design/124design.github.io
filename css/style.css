@@ -531,7 +531,7 @@ p.about-text1 {
     font-size: 1.8em;
     color: #fff;
     text-transform: capitalize;
-    margin: .5em 0 0 2em;
+    margin: 1em 0 0 0;
 }
 h3.tittle1{
 	 text-align: center;
@@ -892,6 +892,7 @@ p.jour-link a:hover {
 .footer-left {
     text-align: center;
     float: left;
+    width: 50%;
 }
 .copyright {
     background-color:#9E8FD7;
@@ -997,7 +998,7 @@ h3.tittle,h3.tittle1 {
 }
 .about-grid {
     float: left;
-    width: 33.3%;
+    width: 50%;
 }
 .about-w3, .team-w3l, .gallery, .testimonials-w3ls, .journal-w3l,.count-agileits ,.services{
     padding: 4em 0;
